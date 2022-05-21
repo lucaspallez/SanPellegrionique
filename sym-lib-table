@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "S2B-PH-K-S_LF__SN_")(type "Legacy")(uri "${KIPRJMOD}/S2B-PH-K-S_LF__SN_/S2B-PH-K-S_LF__SN_.lib")(options "")(descr ""))
+  (lib (name "Sensor_Motion")(type "Legacy")(uri "${KIPRJMOD}/Sensor_Motion.lib")(options "")(descr ""))
+  (lib (name "Sensor_Pressure")(type "Legacy")(uri "${KIPRJMOD}/Sensor_Pressure.lib")(options "")(descr ""))
+  (lib (name "ESP32-CAM")(type "Legacy")(uri "${KIPRJMOD}/ESP32-CAM.lib")(options "")(descr ""))
+)
