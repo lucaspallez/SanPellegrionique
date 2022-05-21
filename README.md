@@ -1,9 +1,8 @@
 # SanPellegrionique
-Flight Avionics PCB for a Water Rocket
+Flight Avionics PCB for a Water Rocket  
+This project was done in the scope of a project for the EPFL ENG-510 Space Propulsion Class
 
-
-Embedded Software for this board available here: https://github.com/lucaspallez/COTS_SanPellegrinOS
-
+Embedded Software for this board available here: https://github.com/lucaspallez/COTS_SanPellegrinOS   
 Compatible Ground Station PCB: https://github.com/lucaspallez/GRUND
 
 ## Features
