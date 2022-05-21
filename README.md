@@ -1,7 +1,9 @@
 # SanPellegrionique
 Flight Avionics PCB for a Water Rocket
 
+
 Embedded Software for this board available here: https://github.com/lucaspallez/COTS_SanPellegrinOS
+
 Compatible Ground Station PCB: https://github.com/lucaspallez/GRUND
 
 ## Features
